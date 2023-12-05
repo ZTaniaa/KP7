@@ -1,10 +1,7 @@
 package com.example.kp7;
 
-import javafx.application.Platform;
-import javafx.fxml.FXML;
 import javafx.scene.control.TextArea;
 
-import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Semaphore;
 
 class Library {
