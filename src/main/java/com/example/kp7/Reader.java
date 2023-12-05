@@ -18,7 +18,6 @@ class Reader implements Runnable {
         this.textArea = textArea;
         this.readTime = readTime;
     }
-
     @Override
     public void run() {
         try {
